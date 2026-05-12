@@ -68,6 +68,8 @@ learnflow/
 │
 └── static/
     └── css/
+    └── img/
+    └── js/
 ```
 
 ---
@@ -139,4 +141,4 @@ Add screenshots of the application here.
 
 ## Author
 
-Developed by Rafael.
+Developed by Rafael Moura.
