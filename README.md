@@ -1,53 +1,73 @@
-# LearnFlow
+# 🚀 LearnFlow
 
-Learning platform built with Flask, Bootstrap and PostgreSQL.
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## Overview
-
-LearnFlow is a web platform focused on online learning and course management. The project was created to improve backend, frontend and database development skills using modern web technologies.
-
-The platform allows users to explore courses, access educational content and interact with a responsive and organized interface.
+📚 Learning platform built with **Flask**, **Bootstrap** and **PostgreSQL**.
 
 ---
 
-## Features
+## 🌟 Overview
 
-* Complete authentication system
-* Course enrollment and management
-* Student progress tracking
-* Responsive and modern interface
-* Dynamic content rendering with Flask
-* PostgreSQL relational database integration
-* Organized MVC-inspired architecture
-* Bootstrap-based UI components
-* Secure backend structure
-* Scalable project organization
+LearnFlow is a web platform focused on online learning and course management.  
+The project was created to improve backend, frontend and database development skills using modern web technologies. 💻
+
+The platform allows users to explore courses, access educational content and interact with a responsive and organized interface. 🎓
 
 ---
 
-## Technologies
+## ✨ Features
 
-### Backend
-
-* Python
-* Flask
-* SQLAlchemy
-
-### Frontend
-
-* HTML5
-* CSS3
-* Bootstrap 5
-
-### Database
-
-* PostgreSQL
+* 🔐 Complete authentication system
+* 📖 Course enrollment and management
+* 📈 Student progress tracking
+* 🎨 Responsive and modern interface
+* ⚡ Dynamic content rendering with Flask
+* 🗄️ PostgreSQL relational database integration
+* 🧩 Organized MVC-inspired architecture
+* 🖥️ Bootstrap-based UI components
+* 🛡️ Secure backend structure
+* 🚀 Scalable project organization
 
 ---
 
-## Project Structure
+## 🎯 Project Goals
+
+This project was developed to practice and improve skills in:
+
+* Backend architecture
+* Database modeling
+* Flask routing
+* Authentication systems
+* Responsive web interfaces
+* Fullstack development concepts
+
+---
+
+## 🛠️ Technologies
+
+### ⚙️ Backend
+
+* 🐍 Python
+* 🌐 Flask
+* 🧪 SQLAlchemy
+
+### 🎨 Frontend
+
+* 🧱 HTML5
+* 🎨 CSS3
+* 🅱️ Bootstrap 5
+
+### 🗃️ Database
+
+* 🐘 PostgreSQL
+
+---
+
+## 📂 Project Structure
 
 ```text
 learnflow/
@@ -64,81 +84,95 @@ learnflow/
 │   ├── index.html
 │   ├── login.html
 │   ├── cursos.html
-│   └── sobre.html
+│   |── sobre.html
+|   └── sobre.html
 │
 └── static/
-    └── css/
-    └── img/
+    ├── css/
+    ├── img/
     └── js/
 ```
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-### Clone the repository
+### 📥 Clone the repository
 
 ```bash
 git clone https://github.com/your-username/learnflow.git
 ```
 
-### Access the project folder
+### 📂 Access the project folder
 
 ```bash
 cd learnflow
 ```
 
-### Create virtual environment
+### 🧪 Create virtual environment
 
 ```bash
 python -m venv .venv
 ```
 
-### Activate virtual environment
+### ▶️ Activate virtual environment
 
-#### Windows PowerShell
+#### 🪟 Windows PowerShell
 
 ```bash
 .\.venv\Scripts\Activate.ps1
 ```
 
-#### Windows CMD
+#### 🪟 Windows CMD
 
 ```bash
 .venv\Scripts\activate.bat
 ```
 
-### Install dependencies
+### 📦 Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the application
+### 🚀 Run the application
 
 ```bash
-python -m flask --app app run --debug
+flask --app app run --debug
 ```
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
-* Student progress tracking
-* Admin dashboard
-* User profile system
-* Video lesson integration
-* Course search and filtering
-* Deployment support
-
----
-
-## Screenshots
-
-Add screenshots of the application here.
+* 🛠️ Admin dashboard
+* 👤 User profile system
+* 🎥 Video lesson integration
+* 🔎 Course search and filtering
+* 🌙 Dark mode
+* 🔑 JWT authentication
+* 🐳 Docker support
+* 📧 Email verification system
+* ☁️ Deployment support
 
 ---
 
-## Author
+## 📸 Screenshots
 
-Developed by Rafael Moura.
+### 🏠 Home Page
+
+<img src="static/img/home.png" width="800">
+
+### 🔐 Login Page
+
+<img src="static/img/login.png" width="800">
+
+### 📚 Courses Page
+
+<img src="static/img/courses.png" width="800">
+
+---
+
+## 👨‍💻 Author
+
+Developed with ❤️ by **Rafael Moura**.
