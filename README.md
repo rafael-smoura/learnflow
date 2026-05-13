@@ -9,6 +9,9 @@
 📚 Learning platform built with **Flask**, **Bootstrap** and **PostgreSQL**.
 
 ---
+<img width="1983" height="483" alt="banner" src="https://github.com/user-attachments/assets/a0320b2a-1b42-417f-b541-77b84da5c3ca" />
+
+
 
 ## 🌟 Overview
 
